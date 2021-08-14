@@ -1,0 +1,15 @@
+{
+	"require:":{
+
+	},
+	"autoload":{
+		"psr-4":{
+			"Controllers\\":"Controllers/",
+			"Models\\":"Models/",
+			"Core\\":"Core/"
+		}
+	},
+	"require": {
+		"mike42/escpos-php": "^3.0"
+	}
+}
